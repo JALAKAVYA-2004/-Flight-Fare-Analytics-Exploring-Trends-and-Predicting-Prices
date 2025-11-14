@@ -48,8 +48,7 @@ The dataset includes the following columns:
 - Total_Stops  
 - Additional_Info  
 - Price  
-
-*(Add dataset link here if applicable.)*
+https://colab.research.google.com/drive/1meP5po7yYPZBtjmLxDsS4WsAvlvw7h1l?usp=sharing
 
 ---
 
@@ -107,7 +106,7 @@ Created using **Matplotlib & Seaborn**.
 
 ## 🧠 Key Insights
 
-*(Modify based on your results.)*
+
 
 - Premium airlines show consistently higher average fares.  
 - Non-stop flights are costliest; prices drop with more stops.  
@@ -125,6 +124,6 @@ Created using **Matplotlib & Seaborn**.
 - **NumPy** – Numerical operations  
 - **Matplotlib** – Visualization  
 - **Seaborn** – Statistical plotting  
-- **Jupyter Notebook / Google Colab**
+- **Google Colab**
 
 ---
